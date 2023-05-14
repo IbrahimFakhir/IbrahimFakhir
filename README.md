@@ -14,15 +14,14 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
     <summary>
         CS courses I have taken so far
     </summary>
-    <br />
-    <ul>
+    <h6><ul>
         <li>Algorithms and Data Structures</li>
         <li>Computer Architechture</li>
         <li>Discrete Maths</li>
         <li>Operating Systems (currently)</li>
         <li>Calculus (currently)</li>
         <li>Linear Algebra (currently)</li>
-    </ul>
+    </ul></h6>
 </details>
     
 ## 🧰 My Toolbox
