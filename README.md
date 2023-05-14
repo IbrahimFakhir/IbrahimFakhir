@@ -44,7 +44,7 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 </div>
 
-## My Stats 🏁
+## 🏁 My Stats 
 
 <p align=left>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimFakhir&theme=tokyonight" />
