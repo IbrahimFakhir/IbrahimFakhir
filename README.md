@@ -19,9 +19,9 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
         <li>Algorithms and Data Structures</li>
         <li>Computer Architechture</li>
         <li>Discrete Maths</li>
-        <li>Operating Systems</li>
-        <li>Calculus</li>
-        <li>Linear Algebra</li>
+        <li>Operating Systems (currently)</li>
+        <li>Calculus (currently)</li>
+        <li>Linear Algebra (currently)</li>
     </ul>
 </details>
     
