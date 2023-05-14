@@ -10,8 +10,6 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
 - Grasping the basics of DevOps
 - Learning Spanish! ❤️‍🔥
 
-#
-
 <details>
     <summary>
         CS courses I have taken so far
@@ -45,3 +43,7 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
     <code><a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="csharp" width="40" height="40"/></a></code>
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 </div>
+
+## My Stats 🏁
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimFakhir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IbrahimFakhir" /></p>
