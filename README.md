@@ -10,6 +10,8 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
 - Grasping the basics of DevOps
 - Learning Spanish! ❤️‍🔥
 
+#
+
 <details>
     <summary>
         CS courses I have taken so far
