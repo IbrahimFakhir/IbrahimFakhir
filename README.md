@@ -2,6 +2,29 @@
 
 **`Digital Craftsman`**
 
+Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Computer Science Student currently located in Germany. 
+
+## What am I currently doing?
+- Studying Computer Science at University
+- Deepening my knowledge of Backend Webdevelopment (with Spring and Django)
+- Grasping the basics of DevOps
+- Learning Spanish! ❤️‍🔥
+
+<details>
+    <summary>
+        CS courses I have taken so far
+    </summary>
+    <br />
+    <ul>
+        <li>Algorithms and Data Structures</li>
+        <li>Computer Architechture</li>
+        <li>Discrete Maths</li>
+        <li>Operating Systems</li>
+        <li>Calculus</li>
+        <li>Linear Algebra</li>
+    </ul>
+</details>
+    
 ## 🧰 My Toolbox
     
 <div align="center"> 
