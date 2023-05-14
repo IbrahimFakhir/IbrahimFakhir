@@ -47,3 +47,5 @@ Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Compu
 ## My Stats 🏁
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimFakhir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IbrahimFakhir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimFakhir&show_icons=true&locale=en&theme=tokyonight" alt="IbrahimFakhir" /></p>
