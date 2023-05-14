@@ -2,11 +2,7 @@
 
 **`Digital Craftsman`**
 
-#
-
-<div align="center">
-    <p>🧰 My Toolbox</p>
-</div>
+## 🧰 My Toolbox
     
 <div align="center"> 
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
