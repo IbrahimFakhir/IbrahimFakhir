@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-Your have found your way to my Github Profile! 🥳 My name is Ibo, I am a Computer Science Student currently located in Germany. 
+You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Computer Science Student currently located in Germany. 
 
 ## What am I currently doing?
 - Studying Computer Science at University
