@@ -7,8 +7,6 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Comput
 ## What am I currently doing?
 - Studying Computer Science at University
 - Deepening my knowledge of Backend Webdevelopment (with Spring and Django)
-- Grasping the basics of DevOps
-- Learning Spanish! ❤️‍🔥
 
 <details>
     <summary>
