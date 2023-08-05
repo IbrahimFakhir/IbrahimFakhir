@@ -6,7 +6,8 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Comput
 
 ## What am I currently doing?
 - Studying Computer Science at University
-- Deepening my knowledge of Backend Webdevelopment (with Spring and Django)
+- Deepening my knowledge of Backend Webdevelopment with Java Spring
+- Upgrading my React skills with Nextjs 13
 
 <details>
     <summary>
@@ -16,9 +17,9 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Comput
         <li>Algorithms and Data Structures</li>
         <li>Computer Architechture</li>
         <li>Discrete Maths</li>
-        <li>Operating Systems (currently)</li>
-        <li>Calculus (currently)</li>
-        <li>Linear Algebra (currently)</li>
+        <li>Operating Systems</li>
+        <li>Calculus</li>
+        <li>Linear Algebra</li>
     </ul></h6>
 </details>
     
@@ -31,6 +32,7 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Comput
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
     <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
     <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
+    <code><a href="https://nextjs.org/" title="Nextjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Nextjs" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
     <code><a href="https://www.figma.com" title="Figma" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a></code>
