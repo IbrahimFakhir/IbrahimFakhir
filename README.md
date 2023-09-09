@@ -40,7 +40,6 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full S
     <code><a href="https://www.figma.com" title="Figma" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a></code>
     <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
     <code><a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="csharp" width="40" height="40"/></a></code>
-    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 </div>
 
 ## 🏁 My Stats 
