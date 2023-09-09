@@ -45,8 +45,25 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full S
 
 ## 🏁 My Stats 
 
+<!--
 <p align=left>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimFakhir&theme=tokyonight" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimFakhir&theme=tokyonight" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimFakhir&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="IbrahimFakhir" /></p>
+-->
+
+
+[![Ibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimFakhir&showIcons=true&count_private=true&locale=en&theme=radical)](https://github.com/IbrahimFakhir/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimFakhir&theme=radical)](https://github.com/IbrahimFakhir/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
