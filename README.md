@@ -6,8 +6,8 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full S
 
 ## What am I currently doing?
 - Studying Computer Science at University
-- Learning Backend Web Development with Java Spring
-- Upgrading my React skills with Nextjs 13
+- Diving into Backend Web Development with Java Spring<!-- - Elevating my React skills with Nextjs 13 -->
+- Beginning my journey into the world of Deep Learning and Neural Networks
 
 <details>
     <summary>
