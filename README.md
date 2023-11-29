@@ -6,8 +6,9 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full S
 
 ## What am I currently doing?
 - Studying Computer Science at University
-- Learning about Deep Learning and Neural Networks
+- Enrolled in a Coursera Deep Learning Course
 
+<!--
 <details>
     <summary>
         CS courses I have taken so far
@@ -21,7 +22,8 @@ You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full S
         <li>Linear Algebra</li>
     </ul></h6>
 </details>
-    
+-->
+
 ## 🧰 My Toolbox
     
 <div align="center"> 
