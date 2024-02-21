@@ -4,10 +4,6 @@
 
 You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full Stack Web Developer currently located in Germany. 
 
-## What am I currently doing?
-- Studying Computer Science at University
-- Enrolled in a Coursera Deep Learning Course
-
 <!--
 <details>
     <summary>
