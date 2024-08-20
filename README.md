@@ -2,8 +2,6 @@
 
 **`Digital Craftsman`**
 
-You have found your way to my Github Profile! 🥳 My name is Ibo, I am a Full Stack Web Developer currently located in Germany. 
-
 <!--
 <details>
     <summary>
